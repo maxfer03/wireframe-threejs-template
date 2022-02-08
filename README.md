@@ -1,3 +1,7 @@
+# Deprecated
+
+I recommend looking [here](https://github.com/maxfer03/threejs-vite-boilerplate) for an updated version.
+
 # 3D Wireframe Portfolio Template
 
 This is a template I created if you liked my  [portfolio](https://max-fernandez-portfolio.vercel.app/) and wanted to do something similar.
